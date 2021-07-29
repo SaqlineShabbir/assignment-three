@@ -1,14 +1,17 @@
-.head{
+ .my-bg-color{
     background: #264653;
     color: #fff;
 }
-.head p{
+
+.my-bg-color p{
     color:#E0E0E0,
 }
 .btn{
-    background-color: #e76f51;
-    
+    background:#e76f51;
+    color:#fff;
 }
+    
+
 .gray-scale{
     -webkit-filter: grayscale(100%);
 }
