@@ -18,3 +18,8 @@
 .colored-text{
     color:#e76f51;
 }
+.big-img img{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+}
