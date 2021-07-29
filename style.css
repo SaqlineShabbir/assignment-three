@@ -1,0 +1,17 @@
+.head{
+    background: #264653;
+    color: #fff;
+}
+.head p{
+    color:#E0E0E0,
+}
+.btn{
+    background-color: #e76f51;
+    
+}
+.gray-scale{
+    -webkit-filter: grayscale(100%);
+}
+.colored-text{
+    color:#e76f51;
+}
